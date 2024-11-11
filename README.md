@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is WORRAPHONG CHENVIGYAKIT
 ===============================================================================================================================================
 
-I'm a Software Developer
+I'm a Software Developer.
 ------------------------
 
 I have 4 months of experience as a Design Engineer (R&D), but my real passion lies in programming.
 
-* 🌍  I'm based in I'm based in Pathumthani, Thailand
+* 🌍  I'm based in Pathumthani, Thailand
 * ✉️  You can contact me at [Worraphong.che@gmail.com](mailto:Worraphong.che@gmail.com)
 * 🧠  I'm learning React, NodeJs, Typescript, Nextjs
 
